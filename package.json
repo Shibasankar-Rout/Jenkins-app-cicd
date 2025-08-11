@@ -1,0 +1,10 @@
+{
+  "name": "my-node-app",
+  "scripts": {
+	"test": "mocha",
+	"start": "node app.js"
+  },
+  "devDependencies": {
+	"mocha": "^10.0.0"
+  }
+}
